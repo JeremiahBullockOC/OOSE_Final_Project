@@ -5,4 +5,4 @@ jobs:
   Final-Project-Workflow:
     runs-on: ubuntu-latest
     steps: 
-      run: "Thats all we have for now. Trying to get Maven running."
+      run: echo "Thats all we have for now. Trying to get Maven running."
