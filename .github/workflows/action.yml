@@ -1,0 +1,8 @@
+name: Project Actions
+run-name: ${{ github.actor }} is running a Final Project Workflow
+on: [push]
+jobs:
+  Final-Project-Workflow:
+    runs-on: ubuntu-latest
+    steps: 
+      run: "Thats all we have for now. Trying to get Maven running."
